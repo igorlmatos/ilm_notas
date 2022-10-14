@@ -94,12 +94,13 @@ Aqui algo que não devo usar tanto, mas toda vez que for usar, será **bem** leg
 ```mermaid
 graph TB
 
-A[[apex_2022_10_dia_1]]
-B[[Curso de Apex de 2022-10]]
+A[apex_2022_10_dia_1]
+B[Curso de Apex de 2022-10]
 
 A --> B
 
-class A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z internal-link;
+click A "https://apex-outubro.netlify.app/apex-2022-10-dia-1/";
+click B "[[Curso de Apex de 2022-10]]";
 ```
 
 ## Foto
