@@ -102,10 +102,24 @@ A --> B
 B --> C
 
 click A "https://apex-outubro.netlify.app/apex-2022-10-dia-1/";
-click B "../Curso de Apex de 2022-10";
-click C "/Curso de Apex de 2022-10";
+click B "../apex-2022-10-dia-1";
+click C "/apex-2022-10-dia-1";
 ```
+
+## Footnote (notas de rodapé)
+
+Isso é incrível [^1]
+
+Segundo [^ 2] teste de nota de rodapé
+
+
 
 ## Foto
 
 Depois eu coloco uma foto aqui, pois vou precisar para colocar as modelagens.
+
+
+
+[1]: O fato de eu poder colocar onde eu quiser as notas de rodapé.
+
+[2]: Segunda explicação
