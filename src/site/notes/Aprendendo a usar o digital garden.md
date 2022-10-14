@@ -96,11 +96,14 @@ graph TB
 
 A[apex_2022_10_dia_1]
 B[Curso de Apex de 2022-10]
+C[Mais um teste de página]
 
 A --> B
+B --> C
 
 click A "https://apex-outubro.netlify.app/apex-2022-10-dia-1/";
-click B "[[Curso de Apex de 2022-10]]";
+click B "../Curso de Apex de 2022-10";
+click C "./Curso de Apex de 2022-10";
 ```
 
 ## Foto
