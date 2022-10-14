@@ -103,7 +103,7 @@ B --> C
 
 click A "https://apex-outubro.netlify.app/apex-2022-10-dia-1/";
 click B "../Curso de Apex de 2022-10";
-click C "./Curso de Apex de 2022-10";
+click C "/Curso de Apex de 2022-10";
 ```
 
 ## Foto
