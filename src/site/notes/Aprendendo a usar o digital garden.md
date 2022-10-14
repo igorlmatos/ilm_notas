@@ -110,9 +110,15 @@ click C "/apex-2022-10-dia-1";
 
 Isso é incrível [^1]
 
+[^1]: O fato de eu poder colocar onde eu quiser as notas de rodapé.
+
 Segundo [^ 2] teste de nota de rodapé
 
+[^2]: Segunda explicação
 
+[^3]: Terceira antes da nota
+
+Agora vem a [^3] nota.
 
 ## Foto
 
@@ -120,6 +126,5 @@ Depois eu coloco uma foto aqui, pois vou precisar para colocar as modelagens.
 
 
 
-[1]: O fato de eu poder colocar onde eu quiser as notas de rodapé.
 
-[2]: Segunda explicação
+
