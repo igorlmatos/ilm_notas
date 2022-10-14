@@ -35,7 +35,7 @@ Com quebra de linha.
 
 ## Callouts
 
-Aqui segue os callouts que devo usar.
+Aqui seguem os callouts que devo usar.
 
 >[!info] info
 >Uma ideia legal é colocar as coisas de forma mais organizada.
@@ -49,8 +49,8 @@ Aqui segue os callouts que devo usar.
 >[!warning] warning
 >Esse seria o alerta, mas ficou feio
 
->[!failure] failure
->Deu ruim.
+>[!failure]- failure
+>Testando o fold. Deu ruim.
 
 É isso. Mais que 5 me deixaria louco. Vou colocar nessa ordem no fastkeys. Adorei isso aqui.
 
@@ -94,8 +94,8 @@ Aqui algo que não devo usar tanto, mas toda vez que for usar, será **bem** leg
 ```mermaid
 graph TB
 
-A[apex_2022_10_dia_1]
-B[Curso de Apex de 2022-10]
+A[[apex_2022_10_dia_1]]
+B[[Curso de Apex de 2022-10]]
 
 A --> B
 
