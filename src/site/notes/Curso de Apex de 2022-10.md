@@ -16,10 +16,14 @@ A ideia é que todos os links importantes fiquem concentrados nessa página.
 
 ## Atividades
 - [[atividades/apex-2022-10-atividade-00- Arrumando os Logins|Atividade 0 - Fazer login no workspace]]
+- [[atividades/apex-2022-10-atividade-01- Aplicação Vazia|Atividade 1 - ]]
+- [[atividades/apex-2022-10-atividade-02- Adicionar Página|apex-2022-10-atividade-02- Adicionar Página]]
+- [[atividades/apex-2022-10-atividade-03- Regiões Estáticas|Atividade 3 - ]]
+- 
 
 
 
-## Arquivos e Links Úteis
+## Arquivos e outros Links Úteis
 Os mais importantes estarão linkados em suas notas, mas caso isso não seja a melhor opção, eles aparecerão aqui.
- > Os links e arquivos estão nas páginas de cada dia!
+ > Alguns links e arquivos estarão nas páginas de cada assunto!
 
