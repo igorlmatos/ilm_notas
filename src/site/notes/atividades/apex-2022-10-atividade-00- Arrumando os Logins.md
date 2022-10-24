@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atividades/apex-2022-10-atividade-00-arrumando-os-logins/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-up:: [[Curso de Apex de Outubro de 2022|Curso de Apex de Outubro de 2022]]
+up:: [[Curso de Apex de 2022-10|Curso de Apex de 2022-10]]
 
 # Exercício 00 - Arrumando os Logins e Acessando o Workspace
 
@@ -22,7 +22,7 @@ Foram criados 21 usuários. Segue a lista.
 |     erica.cruz      | aluno09 |
 |  erivelton.santos   | aluno10 |
 |    fellipe.silva    | aluno11 |
-|                     | aluno12 |
+|       gerson.conti              | aluno12 |
 |   flavio.krutman    | aluno13 |
 |    gabriel.sousa    | aluno14 |
 |     taina.silva     | aluno15 |
