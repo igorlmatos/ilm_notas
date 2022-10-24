@@ -10,16 +10,15 @@ A ideia é que todos os links importantes fiquem concentrados nessa página.
 - Links Importantes:
 	- [Esse site (apex-outubro.netlify.app)](https://apex-outubro.netlify.app/)
 	- Workspace onde trabalharemos
-		- Link: https://lt62zoyhm5qugno-dbcursoapex.adb.sa-saopaulo-1.oraclecloudapps.com/ords/f?p=4500
+		- Link: [Apex do Curso](https://lt62zoyhm5qugno-dbcursoapex.adb.sa-saopaulo-1.oraclecloudapps.com/ords/f?p=4500)
 		- Workspace: CURSO
-		- Login: olhar [[nesse link|nesse link]]
+		- Login: olhar [[atividades/apex-2022-10-atividade-00- Arrumando os Logins|apex-2022-10-atividade-00- Arrumando os Logins]]
 
 ## Atividades
 - [[atividades/apex-2022-10-atividade-00- Arrumando os Logins|Atividade 0 - Fazer login no workspace]]
 - [[atividades/apex-2022-10-atividade-01- Aplicação Vazia|Atividade 1 - ]]
 - [[atividades/apex-2022-10-atividade-02- Adicionar Página|apex-2022-10-atividade-02- Adicionar Página]]
 - [[atividades/apex-2022-10-atividade-03- Regiões Estáticas|Atividade 3 - ]]
-- 
 
 
 
@@ -27,3 +26,4 @@ A ideia é que todos os links importantes fiquem concentrados nessa página.
 Os mais importantes estarão linkados em suas notas, mas caso isso não seja a melhor opção, eles aparecerão aqui.
  > Alguns links e arquivos estarão nas páginas de cada assunto!
 
+- [Apresentação de Introdução](https://www.dropbox.com/t/HrxZgsIU5sU1aS3O)
