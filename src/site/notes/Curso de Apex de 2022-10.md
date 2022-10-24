@@ -16,9 +16,10 @@ A ideia é que todos os links importantes fiquem concentrados nessa página.
 
 ## Atividades
 - [[atividades/apex-2022-10-atividade-00- Arrumando os Logins|Atividade 0 - Fazer login no workspace]]
-- [[atividades/apex-2022-10-atividade-01- Aplicação Vazia|Atividade 1 - ]]
+- [[atividades/apex-2022-10-atividade-01- Aplicação Vazia|Atividade 1 - Criando a Aplicação]]
 - [[atividades/apex-2022-10-atividade-02- Adicionar Página|apex-2022-10-atividade-02- Adicionar Página]]
-- [[atividades/apex-2022-10-atividade-03- Regiões Estáticas|Atividade 3 - ]]
+- [[atividades/apex-2022-10-atividade-03- Regiões Estáticas|Atividade 3 - Página de Informações]]
+- 
 
 
 
