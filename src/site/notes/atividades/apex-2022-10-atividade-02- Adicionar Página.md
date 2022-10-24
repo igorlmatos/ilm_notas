@@ -28,18 +28,3 @@ click B "../apex-2022-10-dia-1";
 click C "/apex-2022-10-dia-1";
 %%
 ```
-
-## Informações Extras
-- Source da região static content
-```html
-Bem vindos à aplicação de <b>controle de cursos</b>! Ela tem por objetivo:
-
-<ul>
-<li>Listar e Cadastrar as Pessoas</li>
-<li>Listar e Cadastrar as Áreas</li>
-<li>Listar e Cadastrar os Cursos</li>
-<li>Listar e Cadastrar os Cursos que as pesssoas fizeram</li>
-</ul>
-
-Espero que gostem!
-```
