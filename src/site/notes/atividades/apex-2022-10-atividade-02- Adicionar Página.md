@@ -4,7 +4,7 @@
 
 up:: [[Curso de Apex de 2022-10|Curso de Apex de 2022-10]]
 
-# Exercício 02 - Adicionar uma Página
+# Atividade 02 - Adicionar uma Página
 
 ```mermaid
 graph TB
