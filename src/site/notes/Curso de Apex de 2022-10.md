@@ -13,6 +13,7 @@ A ideia é que todos os links importantes fiquem concentrados nessa página.
 		- Link: [Apex do Curso](https://lt62zoyhm5qugno-dbcursoapex.adb.sa-saopaulo-1.oraclecloudapps.com/ords/f?p=4500)
 		- Workspace: CURSO
 		- Login: olhar [[atividades/apex-2022-10-atividade-00- Arrumando os Logins|apex-2022-10-atividade-00- Arrumando os Logins]]
+	- [Tema do Apex](https://apex.oracle.com/ut/)
 
 ## Atividades
 - [[atividades/apex-2022-10-atividade-00- Arrumando os Logins|Atividade 0 - Fazer login no workspace]]
