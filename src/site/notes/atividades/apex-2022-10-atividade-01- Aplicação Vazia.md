@@ -4,7 +4,7 @@
 
 up:: [[Curso de Apex de 2022-10|Curso de Apex de 2022-10]]
 
-# Exercício 01 - Criar uma aplicação
+# Atividade 01 - Criar uma aplicação
 
 ```mermaid
 graph TB
