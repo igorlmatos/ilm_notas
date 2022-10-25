@@ -4,7 +4,7 @@
 
 up:: [[Curso de Apex de 2022-10|Curso de Apex de 2022-10]]
 
-# Exercício 00 - Arrumando os Logins e Acessando o Workspace
+# Atividade 00 - Arrumando os Logins e Acessando o Workspace
 
 Foram criados 21 usuários. Segue a lista.
 
@@ -22,7 +22,7 @@ Foram criados 21 usuários. Segue a lista.
 |     erica.cruz      | aluno09 |
 |  erivelton.santos   | aluno10 |
 |    fellipe.silva    | aluno11 |
-|       gerson.conti              | aluno12 |
+|    gerson.conti     | aluno12 |
 |   flavio.krutman    | aluno13 |
 |    gabriel.sousa    | aluno14 |
 |     taina.silva     | aluno15 |
@@ -31,3 +31,4 @@ Foram criados 21 usuários. Segue a lista.
 | alexandre.henriques | aluno18 |
 |  vinicius.palhares  | aluno19 |
 |    maria.teresa     | aluno20 |
+|     diogo.dias      | aluno21 |
